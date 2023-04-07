@@ -7,3 +7,4 @@ i = ineuron()
 i.students()
 i.student1 = "data analytics"
 
+#hiding
