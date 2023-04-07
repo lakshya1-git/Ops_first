@@ -1,7 +1,9 @@
 class ineuron:
-    __students = "data_science"
-    def stuent(self):
-        print("Give  a classs of student",ineuron.__students)
+    def __init__(self):
+        self.students1 = "data science"
+    def students(self):
+        print(self.students1)
 i = ineuron()
-i.stuent()
-#i._ineuron__students
+i.students()
+i.student1 = "data analytics"
+
